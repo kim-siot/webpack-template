@@ -1,0 +1,13 @@
+$bgcolor: #333333;
+$txtcolor: #f0ebcb;
+
+body {
+  background-color: $bgcolor;
+  div {
+    width:100px;
+    height:100px;
+    background-color: chocolate;
+    color:$txtcolor;
+    display: flex;
+  }
+}
